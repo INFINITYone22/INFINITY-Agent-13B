@@ -67,6 +67,4 @@ Portfolio: https://infinityone22.github.io/portfolio-website/
 
 See LICENSE file for details.
 
-*INFINITY-Agent-13B delivers up to 70% computational savings compared to monolithic LLM designs while providing superior scalability and security for AI-driven engineering workflows.*[1]
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/3696807/bbed391b-2f26-4a0b-b49a-f5807caad00e/INFINITYone22-agent-13B.pdf
+*INFINITY-Agent-13B delivers up to 70% computational savings compared to monolithic LLM designs while providing superior scalability and security for AI-driven engineering workflows.
